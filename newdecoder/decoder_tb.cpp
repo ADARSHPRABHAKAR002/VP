@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  full_adder
-//
-//  Created by Behrad Niazmand on 05/02/16.
-//  Copyright © 2016 Behrad Niazmand. All rights reserved.
-//
+
 
 #include "decoder.h"
 
